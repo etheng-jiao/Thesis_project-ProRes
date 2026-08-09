@@ -10,6 +10,7 @@ A systematic investigation of when structural information is useful (or not) for
 We hypothesize that the predictive utility of structural representations is determined by the strength of structure-function dependency I(S;Y). This work quantifies this dependency and examines its impact on representation learning and prediction performance.
 
 ## Project Structure
+```text
 project/
 ├── data/
 │ ├── train_ec_labels.csv # Training set EC annotations (CLEAN dataset)
@@ -36,7 +37,7 @@ project/
 │ └── report.md # 2-3 page experimental summary
 └── README.md
 
-text
+```
 
 ## Experimental Pipeline
 
