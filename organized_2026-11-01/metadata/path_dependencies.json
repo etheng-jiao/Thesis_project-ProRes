@@ -1,0 +1,2018 @@
+[
+  {
+    "notebook": "0 Data Exploration.ipynb",
+    "cell_index_0based": 0,
+    "reference": "../local_snapshot/data/all/all_cluster.tsv",
+    "snapshot_relative": "data/all/all_cluster.tsv",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "0 Data Exploration.ipynb",
+    "cell_index_0based": 0,
+    "reference": "../local_snapshot/data/all/afall_ID50_cluster.tsv",
+    "snapshot_relative": "data/all/afall_ID50_cluster.tsv",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "0 Data Exploration.ipynb",
+    "cell_index_0based": 0,
+    "reference": "../local_snapshot/data/all/select_cluster.tsv",
+    "snapshot_relative": "data/all/select_cluster.tsv",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "0 Data Exploration.ipynb",
+    "cell_index_0based": 1,
+    "reference": "../local_snapshot/data/afpdb",
+    "snapshot_relative": "data/afpdb",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "0 Data Exploration.ipynb",
+    "cell_index_0based": 5,
+    "reference": "../local_snapshot/data/afnew/",
+    "snapshot_relative": "data/afnew/",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "0 Data Exploration.ipynb",
+    "cell_index_0based": 13,
+    "reference": "../local_snapshot/data/afall/",
+    "snapshot_relative": "data/afall/",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "0 Data Exploration.ipynb",
+    "cell_index_0based": 32,
+    "reference": "../local_snapshot/data/select_structure.txt",
+    "snapshot_relative": "data/select_structure.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "0 Data Exploration.ipynb",
+    "cell_index_0based": 41,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "0 Data Exploration.ipynb",
+    "cell_index_0based": 44,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/data/split100.fasta",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/data/split100.fasta",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "0 Data Exploration.ipynb",
+    "cell_index_0based": 45,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/data/new.fasta",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/data/new.fasta",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "0 Data Exploration.ipynb",
+    "cell_index_0based": 47,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/data/new.fasta",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/data/new.fasta",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "0 Data Exploration.ipynb",
+    "cell_index_0based": 98,
+    "reference": "../local_snapshot/data/Enzyme_proteins_embed_dic",
+    "snapshot_relative": "data/Enzyme_proteins_embed_dic",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "0 Data Exploration.ipynb",
+    "cell_index_0based": 98,
+    "reference": "../local_snapshot/data/Miss_proteins_embed_dic",
+    "snapshot_relative": "data/Miss_proteins_embed_dic",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "1 Function Enrichment Analysis.ipynb",
+    "cell_index_0based": 3,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "1 Function Enrichment Analysis.ipynb",
+    "cell_index_0based": 4,
+    "reference": "../local_snapshot/data/all/all_cluster.tsv",
+    "snapshot_relative": "data/all/all_cluster.tsv",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "1 Function Enrichment Analysis.ipynb",
+    "cell_index_0based": 4,
+    "reference": "../local_snapshot/data/all/afall_ID50_cluster.tsv",
+    "snapshot_relative": "data/all/afall_ID50_cluster.tsv",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "1 Function Enrichment Analysis.ipynb",
+    "cell_index_0based": 4,
+    "reference": "../local_snapshot/data/all/select_cluster.tsv",
+    "snapshot_relative": "data/all/select_cluster.tsv",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "1 Function Enrichment Analysis.ipynb",
+    "cell_index_0based": 6,
+    "reference": "../local_snapshot/data/afall/",
+    "snapshot_relative": "data/afall/",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "1 Function Enrichment Analysis.ipynb",
+    "cell_index_0based": 11,
+    "reference": "../local_snapshot/Uni_ID_90.txt",
+    "snapshot_relative": "Uni_ID_90.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "1 Function Enrichment Analysis.ipynb",
+    "cell_index_0based": 29,
+    "reference": "../local_snapshot/data/uniprotkb_AND_reviewed_true_2023_07_03.tsv",
+    "snapshot_relative": "data/uniprotkb_AND_reviewed_true_2023_07_03.tsv",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "1 Function Enrichment Analysis.ipynb",
+    "cell_index_0based": 29,
+    "reference": "../local_snapshot/data/all/all_cluster.tsv",
+    "snapshot_relative": "data/all/all_cluster.tsv",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "1 Function Enrichment Analysis.ipynb",
+    "cell_index_0based": 29,
+    "reference": "../local_snapshot/data/all/afall_ID50_cluster.tsv",
+    "snapshot_relative": "data/all/afall_ID50_cluster.tsv",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "1 Function Enrichment Analysis.ipynb",
+    "cell_index_0based": 29,
+    "reference": "../local_snapshot/data/all/select_cluster.tsv",
+    "snapshot_relative": "data/all/select_cluster.tsv",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "1 Function Enrichment Analysis.ipynb",
+    "cell_index_0based": 29,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "1 Function Enrichment Analysis.ipynb",
+    "cell_index_0based": 42,
+    "reference": "../local_snapshot/data/GO_analysis/funF_ccGO.h5",
+    "snapshot_relative": "data/GO_analysis/funF_ccGO.h5",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "1 Function Enrichment Analysis.ipynb",
+    "cell_index_0based": 42,
+    "reference": "../local_snapshot/data/GO_analysis/funF_bpGO.h5",
+    "snapshot_relative": "data/GO_analysis/funF_bpGO.h5",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "1 Function Enrichment Analysis.ipynb",
+    "cell_index_0based": 42,
+    "reference": "../local_snapshot/data/GO_analysis/funF_mfGO.h5",
+    "snapshot_relative": "data/GO_analysis/funF_mfGO.h5",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "1 Function Enrichment Analysis.ipynb",
+    "cell_index_0based": 44,
+    "reference": "../local_snapshot/data/GO_analysis/BP_pro.txt",
+    "snapshot_relative": "data/GO_analysis/BP_pro.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "1 Function Enrichment Analysis.ipynb",
+    "cell_index_0based": 44,
+    "reference": "../local_snapshot/data/GO_analysis/MF_pro.txt",
+    "snapshot_relative": "data/GO_analysis/MF_pro.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "1 Function Enrichment Analysis.ipynb",
+    "cell_index_0based": 44,
+    "reference": "../local_snapshot/data/GO_analysis/CC_pro.txt",
+    "snapshot_relative": "data/GO_analysis/CC_pro.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "1 Function Enrichment Analysis.ipynb",
+    "cell_index_0based": 48,
+    "reference": "../local_snapshot/data/GO_analysis/BPlen_pro.txt",
+    "snapshot_relative": "data/GO_analysis/BPlen_pro.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "1 Function Enrichment Analysis.ipynb",
+    "cell_index_0based": 48,
+    "reference": "../local_snapshot/data/GO_analysis/MFlen_pro.txt",
+    "snapshot_relative": "data/GO_analysis/MFlen_pro.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "1 Function Enrichment Analysis.ipynb",
+    "cell_index_0based": 48,
+    "reference": "../local_snapshot/data/GO_analysis/CClen_pro.txt",
+    "snapshot_relative": "data/GO_analysis/CClen_pro.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "1 Function Enrichment Analysis.ipynb",
+    "cell_index_0based": 52,
+    "reference": "../local_snapshot/data/Enzyme_proteins_embed_dic",
+    "snapshot_relative": "data/Enzyme_proteins_embed_dic",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "1 Function Enrichment Analysis.ipynb",
+    "cell_index_0based": 52,
+    "reference": "../local_snapshot/data/Miss_proteins_embed_dic",
+    "snapshot_relative": "data/Miss_proteins_embed_dic",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "1.17.99.9.ipynb",
+    "cell_index_0based": 0,
+    "reference": "<LOCAL_USER_HOME>/Desktop/dtu/semester7/member-sequences-A0A523KKW2-all.fasta",
+    "snapshot_relative": null,
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "1.17.99.9.ipynb",
+    "cell_index_0based": 0,
+    "reference": "<LOCAL_USER_HOME>/Desktop/dtu/semester7/member-sequences-A0A7Y5GYG6-all.fasta",
+    "snapshot_relative": null,
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "1.17.99.9.ipynb",
+    "cell_index_0based": 0,
+    "reference": "../local_snapshot/data/case/case_1.17.99.9_cluster.tsv",
+    "snapshot_relative": "data/case/case_1.17.99.9_cluster.tsv",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "1.17.99.9.ipynb",
+    "cell_index_0based": 0,
+    "reference": "../local_snapshot/data/case/EC_1.17.99.9_cluster.tsv",
+    "snapshot_relative": "data/case/EC_1.17.99.9_cluster.tsv",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "1.17.99.9.ipynb",
+    "cell_index_0based": 4,
+    "reference": "../local_snapshot/data/alignment_db/afcase",
+    "snapshot_relative": "data/alignment_db/afcase",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "1.17.99.9.ipynb",
+    "cell_index_0based": 16,
+    "reference": "../local_snapshot/data/caseID.txt",
+    "snapshot_relative": "data/caseID.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "1.17.99.9.ipynb",
+    "cell_index_0based": 18,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/data/split100.csv",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/data/split100.csv",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "1.17.99.9.ipynb",
+    "cell_index_0based": 18,
+    "reference": "../local_snapshot/data/EC1.17.99.9.fasta",
+    "snapshot_relative": "data/EC1.17.99.9.fasta",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "2 Unknown Universe Exploration.ipynb",
+    "cell_index_0based": 0,
+    "reference": "../local_snapshot/data/Clu_all_10.txt",
+    "snapshot_relative": "data/Clu_all_10.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "2 Unknown Universe Exploration.ipynb",
+    "cell_index_0based": 0,
+    "reference": "../local_snapshot/data/Mem_all.txt",
+    "snapshot_relative": "data/Mem_all.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "2 Unknown Universe Exploration.ipynb",
+    "cell_index_0based": 0,
+    "reference": "../local_snapshot/data/univer_10.txt",
+    "snapshot_relative": "data/univer_10.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "2 Unknown Universe Exploration.ipynb",
+    "cell_index_0based": 0,
+    "reference": "../local_snapshot/data/Clu_all.txt",
+    "snapshot_relative": "data/Clu_all.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "2 Unknown Universe Exploration.ipynb",
+    "cell_index_0based": 12,
+    "reference": "../local_snapshot/data/Universe_1000_2000/sample.fasta",
+    "snapshot_relative": "data/Universe_1000_2000/sample.fasta",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "2 Unknown Universe Exploration.ipynb",
+    "cell_index_0based": 13,
+    "reference": "../local_snapshot/data/Universe_con_augu_fasta/",
+    "snapshot_relative": "data/Universe_con_augu_fasta/",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "2 Unknown Universe Exploration.ipynb",
+    "cell_index_0based": 18,
+    "reference": "../local_snapshot/data/Universe_fasta/",
+    "snapshot_relative": "data/Universe_fasta/",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "2 Unknown Universe Exploration.ipynb",
+    "cell_index_0based": 18,
+    "reference": "../local_snapshot/data/Universe_all.fasta",
+    "snapshot_relative": "data/Universe_all.fasta",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "2 Unknown Universe Exploration.ipynb",
+    "cell_index_0based": 19,
+    "reference": "../local_snapshot/data/Universe_all.fasta",
+    "snapshot_relative": "data/Universe_all.fasta",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "2 Unknown Universe Exploration.ipynb",
+    "cell_index_0based": 20,
+    "reference": "../local_snapshot/data/Universe_rep.fasta",
+    "snapshot_relative": "data/Universe_rep.fasta",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "2 Unknown Universe Exploration.ipynb",
+    "cell_index_0based": 21,
+    "reference": "../local_snapshot/data/pos_con_augu.csv",
+    "snapshot_relative": "data/pos_con_augu.csv",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "2 Unknown Universe Exploration.ipynb",
+    "cell_index_0based": 28,
+    "reference": "../local_snapshot/data/uniprotkb_AND_reviewed_true_2023_07_03.tsv",
+    "snapshot_relative": "data/uniprotkb_AND_reviewed_true_2023_07_03.tsv",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "2 Unknown Universe Exploration.ipynb",
+    "cell_index_0based": 28,
+    "reference": "../local_snapshot/data/all/all_cluster.tsv",
+    "snapshot_relative": "data/all/all_cluster.tsv",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "2 Unknown Universe Exploration.ipynb",
+    "cell_index_0based": 28,
+    "reference": "../local_snapshot/data/all/afall_ID50_cluster.tsv",
+    "snapshot_relative": "data/all/afall_ID50_cluster.tsv",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "2 Unknown Universe Exploration.ipynb",
+    "cell_index_0based": 28,
+    "reference": "../local_snapshot/data/all/select_cluster.tsv",
+    "snapshot_relative": "data/all/select_cluster.tsv",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "2 Unknown Universe Exploration.ipynb",
+    "cell_index_0based": 28,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "2 Unknown Universe Exploration.ipynb",
+    "cell_index_0based": 30,
+    "reference": "../local_snapshot/data/afall/",
+    "snapshot_relative": "data/afall/",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "2 Unknown Universe Exploration.ipynb",
+    "cell_index_0based": 39,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "2 Unknown Universe Exploration.ipynb",
+    "cell_index_0based": 51,
+    "reference": "../local_snapshot/data",
+    "snapshot_relative": "data",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "2 Unknown Universe Exploration.ipynb",
+    "cell_index_0based": 55,
+    "reference": "../local_snapshot/data/all/new_foldseek_key_cluster.tsv",
+    "snapshot_relative": "data/all/new_foldseek_key_cluster.tsv",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "2 Unknown Universe Exploration.ipynb",
+    "cell_index_0based": 55,
+    "reference": "../local_snapshot/data/new.txt",
+    "snapshot_relative": "data/new.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "2 Unknown Universe Exploration.ipynb",
+    "cell_index_0based": 72,
+    "reference": "../local_snapshot/data/Embedding/proteins_embed_dic1_1000_2000",
+    "snapshot_relative": "data/Embedding/proteins_embed_dic1_1000_2000",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "2 Unknown Universe Exploration.ipynb",
+    "cell_index_0based": 72,
+    "reference": "../local_snapshot/data/Embedding/proteins_embed_dic2_1000_2000",
+    "snapshot_relative": "data/Embedding/proteins_embed_dic2_1000_2000",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "2 Unknown Universe Exploration.ipynb",
+    "cell_index_0based": 74,
+    "reference": "../local_snapshot/data/Embedding/proteins_embed_dic_P20921_Mix",
+    "snapshot_relative": "data/Embedding/proteins_embed_dic_P20921_Mix",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "2 Unknown Universe Exploration.ipynb",
+    "cell_index_0based": 80,
+    "reference": "../local_snapshot/data/Universe_1000_2000/",
+    "snapshot_relative": "data/Universe_1000_2000/",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "2 Unknown Universe Exploration.ipynb",
+    "cell_index_0based": 83,
+    "reference": "../local_snapshot/data/Universe_1000_2000",
+    "snapshot_relative": "data/Universe_1000_2000",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "2 Unknown Universe Exploration.ipynb",
+    "cell_index_0based": 101,
+    "reference": "../local_snapshot/data/Enzyme_proteins_embed_dic",
+    "snapshot_relative": "data/Enzyme_proteins_embed_dic",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "2 Unknown Universe Exploration.ipynb",
+    "cell_index_0based": 101,
+    "reference": "../local_snapshot/data/Miss_proteins_embed_dic",
+    "snapshot_relative": "data/Miss_proteins_embed_dic",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "2 Unknown Universe Exploration.ipynb",
+    "cell_index_0based": 102,
+    "reference": "../local_snapshot/data/Embedding/proteins_embed_dic_MF",
+    "snapshot_relative": "data/Embedding/proteins_embed_dic_MF",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "3 CLEAN & SepFun.ipynb",
+    "cell_index_0based": 0,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "3 CLEAN & SepFun.ipynb",
+    "cell_index_0based": 14,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/data/prost5/split50_seq.h5",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/data/prost5/split50_seq.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "3 CLEAN & SepFun.ipynb",
+    "cell_index_0based": 14,
+    "reference": "../local_snapshot/data/Embedding/sep1_cs_512_mlp_aug_dic.h5",
+    "snapshot_relative": "data/Embedding/sep1_cs_512_mlp_aug_dic.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "3 CLEAN & SepFun.ipynb",
+    "cell_index_0based": 26,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/data/new.csv",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/data/new.csv",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "3 CLEAN & SepFun.ipynb",
+    "cell_index_0based": 26,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/data/new_test.csv",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/data/new_test.csv",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "3 CLEAN & SepFun.ipynb",
+    "cell_index_0based": 30,
+    "reference": "../local_snapshot/data/Embedding/sep1_cs_512_mlp_aug_dic.h5",
+    "snapshot_relative": "data/Embedding/sep1_cs_512_mlp_aug_dic.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "3 CLEAN & SepFun.ipynb",
+    "cell_index_0based": 30,
+    "reference": "../local_snapshot/data/Embedding/split100_prostt5.h5",
+    "snapshot_relative": "data/Embedding/split100_prostt5.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "3 CLEAN & SepFun.ipynb",
+    "cell_index_0based": 30,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/data/prost5/split50_seq.h5",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/data/prost5/split50_seq.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "3 CLEAN & SepFun.ipynb",
+    "cell_index_0based": 30,
+    "reference": "../local_snapshot/data/Embedding/split100_prostt5.h5",
+    "snapshot_relative": "data/Embedding/split100_prostt5.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "3 CLEAN & SepFun.ipynb",
+    "cell_index_0based": 30,
+    "reference": "../local_snapshot/data/Embedding/Bag_100.h5",
+    "snapshot_relative": "data/Embedding/Bag_100.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "3 CLEAN & SepFun.ipynb",
+    "cell_index_0based": 30,
+    "reference": "../local_snapshot/data/Embedding/BagAu_100.h5",
+    "snapshot_relative": "data/Embedding/BagAu_100.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "3 CLEAN & SepFun.ipynb",
+    "cell_index_0based": 30,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/data/prost5/new_seq.h5",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/data/prost5/new_seq.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "3 CLEAN & SepFun.ipynb",
+    "cell_index_0based": 30,
+    "reference": "../local_snapshot/data/Embedding/Universe_rep.h5",
+    "snapshot_relative": "data/Embedding/Universe_rep.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "3 CLEAN & SepFun.ipynb",
+    "cell_index_0based": 38,
+    "reference": "../local_snapshot/data/sepFun.h5",
+    "snapshot_relative": "data/sepFun.h5",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "3 CLEAN & SepFun.ipynb",
+    "cell_index_0based": 42,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/data/split100.fasta",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/data/split100.fasta",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "3 CLEAN & SepFun.ipynb",
+    "cell_index_0based": 42,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/data/RepFunFold.csv",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/data/RepFunFold.csv",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "3 CLEAN & SepFun.ipynb",
+    "cell_index_0based": 47,
+    "reference": "../local_snapshot/data/RepFunFold_No.h5",
+    "snapshot_relative": "data/RepFunFold_No.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "3 CLEAN & SepFun.ipynb",
+    "cell_index_0based": 48,
+    "reference": "../local_snapshot/data/Embedding/RepFunFold_sep.h5",
+    "snapshot_relative": "data/Embedding/RepFunFold_sep.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "3 CLEAN & SepFun.ipynb",
+    "cell_index_0based": 58,
+    "reference": "../local_snapshot/data/new.txt",
+    "snapshot_relative": "data/new.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "3 CLEAN & SepFun.ipynb",
+    "cell_index_0based": 59,
+    "reference": "../local_snapshot/data/uniprotkb_AND_reviewed_true_2023_07_03.tsv",
+    "snapshot_relative": "data/uniprotkb_AND_reviewed_true_2023_07_03.tsv",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "3 CLEAN & SepFun.ipynb",
+    "cell_index_0based": 59,
+    "reference": "../local_snapshot/data/all/all_cluster.tsv",
+    "snapshot_relative": "data/all/all_cluster.tsv",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "3 CLEAN & SepFun.ipynb",
+    "cell_index_0based": 59,
+    "reference": "../local_snapshot/data/all/afall_ID50_cluster.tsv",
+    "snapshot_relative": "data/all/afall_ID50_cluster.tsv",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "3 CLEAN & SepFun.ipynb",
+    "cell_index_0based": 59,
+    "reference": "../local_snapshot/data/all/select_cluster.tsv",
+    "snapshot_relative": "data/all/select_cluster.tsv",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "3 CLEAN & SepFun.ipynb",
+    "cell_index_0based": 59,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "3 CLEAN & SepFun.ipynb",
+    "cell_index_0based": 60,
+    "reference": "../local_snapshot/data/afall/",
+    "snapshot_relative": "data/afall/",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "3 CLEAN & SepFun.ipynb",
+    "cell_index_0based": 68,
+    "reference": "../local_snapshot/data/all/new_foldseek_key_cluster.tsv",
+    "snapshot_relative": "data/all/new_foldseek_key_cluster.tsv",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "3 CLEAN & SepFun.ipynb",
+    "cell_index_0based": 70,
+    "reference": "../local_snapshot/data/new.txt",
+    "snapshot_relative": "data/new.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "3 CLEAN & SepFun.ipynb",
+    "cell_index_0based": 74,
+    "reference": "../local_snapshot/data",
+    "snapshot_relative": "data",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "3 CLEAN & SepFun.ipynb",
+    "cell_index_0based": 75,
+    "reference": "../local_snapshot/data",
+    "snapshot_relative": "data",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "3 CLEAN & SepFun.ipynb",
+    "cell_index_0based": 78,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "3 CLEAN & SepFun.ipynb",
+    "cell_index_0based": 86,
+    "reference": "../local_snapshot/data",
+    "snapshot_relative": "data",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "3 CLEAN & SepFun.ipynb",
+    "cell_index_0based": 91,
+    "reference": "../local_snapshot/data",
+    "snapshot_relative": "data",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "3 CLEAN & SepFun.ipynb",
+    "cell_index_0based": 92,
+    "reference": "../local_snapshot/data",
+    "snapshot_relative": "data",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "Analysis.ipynb",
+    "cell_index_0based": 0,
+    "reference": "../local_snapshot/data/alignment_db/alignment_db_rep_seq.fasta",
+    "snapshot_relative": "data/alignment_db/alignment_db_rep_seq.fasta",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Analysis.ipynb",
+    "cell_index_0based": 0,
+    "reference": "../local_snapshot/data/all/all100_rep_seq.fasta",
+    "snapshot_relative": "data/all/all100_rep_seq.fasta",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Analysis.ipynb",
+    "cell_index_0based": 0,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/data/split100.fasta",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/data/split100.fasta",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "Analysis.ipynb",
+    "cell_index_0based": 3,
+    "reference": "../local_snapshot/data/all100_entry.txt",
+    "snapshot_relative": "data/all100_entry.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "Analysis.ipynb",
+    "cell_index_0based": 4,
+    "reference": "<LOCAL_USER_HOME>/Desktop/dtu/semester7/member-sequences-A0A523KKW2-all.fasta",
+    "snapshot_relative": null,
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Analysis.ipynb",
+    "cell_index_0based": 4,
+    "reference": "<LOCAL_USER_HOME>/Desktop/dtu/semester7/member-sequences-A0A7Y5GYG6-all.fasta",
+    "snapshot_relative": null,
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Analysis.ipynb",
+    "cell_index_0based": 4,
+    "reference": "../local_snapshot/data/caseID.txt",
+    "snapshot_relative": "data/caseID.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "Analysis.ipynb",
+    "cell_index_0based": 4,
+    "reference": "../local_snapshot/data/all/all_rep_seq.fasta",
+    "snapshot_relative": "data/all/all_rep_seq.fasta",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Analysis.ipynb",
+    "cell_index_0based": 8,
+    "reference": "../local_snapshot/data/clu/clu.tsv",
+    "snapshot_relative": "data/clu/clu.tsv",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Analysis.ipynb",
+    "cell_index_0based": 19,
+    "reference": "../local_snapshot/data/",
+    "snapshot_relative": "data/",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "Analysis.ipynb",
+    "cell_index_0based": 27,
+    "reference": "../local_snapshot/data/all/afall_cluster.tsv",
+    "snapshot_relative": "data/all/afall_cluster.tsv",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Analysis.ipynb",
+    "cell_index_0based": 29,
+    "reference": "../local_snapshot/data/all/afall_ID50_cluster.tsv",
+    "snapshot_relative": "data/all/afall_ID50_cluster.tsv",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "CLEAN_pre50-Copy1.ipynb",
+    "cell_index_0based": 0,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "CLEAN_pre50-Copy1.ipynb",
+    "cell_index_0based": 8,
+    "reference": "../local_snapshot/data/Embedding/sep1_s_1024_mlp_aug_dic.h5",
+    "snapshot_relative": "data/Embedding/sep1_s_1024_mlp_aug_dic.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "CLEAN_pre50-Copy1.ipynb",
+    "cell_index_0based": 20,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/data/new.csv",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/data/new.csv",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "CLEAN_pre50-Copy1.ipynb",
+    "cell_index_0based": 20,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/data/new_test.csv",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/data/new_test.csv",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "CLEAN_pre50-Copy1.ipynb",
+    "cell_index_0based": 21,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/data/prost5/split50_seq.h5",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/data/prost5/split50_seq.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "CLEAN_pre50-Copy1.ipynb",
+    "cell_index_0based": 21,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/data/prost5/split50_single_seq.h5",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/data/prost5/split50_single_seq.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "CLEAN_pre50-Copy1.ipynb",
+    "cell_index_0based": 21,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/data/prost5/new_seq.h5",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/data/prost5/new_seq.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "CLEAN_pre50-Copy1.ipynb",
+    "cell_index_0based": 23,
+    "reference": "../local_snapshot/data/new.txt",
+    "snapshot_relative": "data/new.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "CLEAN_pre50-Copy1.ipynb",
+    "cell_index_0based": 24,
+    "reference": "../local_snapshot/data/uniprotkb_AND_reviewed_true_2023_07_03.tsv",
+    "snapshot_relative": "data/uniprotkb_AND_reviewed_true_2023_07_03.tsv",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "CLEAN_pre50-Copy1.ipynb",
+    "cell_index_0based": 24,
+    "reference": "../local_snapshot/data/all/all_cluster.tsv",
+    "snapshot_relative": "data/all/all_cluster.tsv",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "CLEAN_pre50-Copy1.ipynb",
+    "cell_index_0based": 24,
+    "reference": "../local_snapshot/data/all/afall_ID50_cluster.tsv",
+    "snapshot_relative": "data/all/afall_ID50_cluster.tsv",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "CLEAN_pre50-Copy1.ipynb",
+    "cell_index_0based": 24,
+    "reference": "../local_snapshot/data/all/select_cluster.tsv",
+    "snapshot_relative": "data/all/select_cluster.tsv",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "CLEAN_pre50-Copy1.ipynb",
+    "cell_index_0based": 24,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "CLEAN_pre50-Copy1.ipynb",
+    "cell_index_0based": 25,
+    "reference": "../local_snapshot/data/afall/",
+    "snapshot_relative": "data/afall/",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "CLEAN_pre50-Copy1.ipynb",
+    "cell_index_0based": 29,
+    "reference": "../local_snapshot/data/all/new_foldseek_key_cluster.tsv",
+    "snapshot_relative": "data/all/new_foldseek_key_cluster.tsv",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "CLEAN_pre50-Copy1.ipynb",
+    "cell_index_0based": 30,
+    "reference": "../local_snapshot/data/new.txt",
+    "snapshot_relative": "data/new.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "CLEAN_pre50-Copy2.ipynb",
+    "cell_index_0based": 0,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "CLEAN_pre50-Copy2.ipynb",
+    "cell_index_0based": 9,
+    "reference": "../local_snapshot/data/Embedding/sep1_c_1024_mlp_aug_dic.h5",
+    "snapshot_relative": "data/Embedding/sep1_c_1024_mlp_aug_dic.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "CLEAN_pre50-Copy2.ipynb",
+    "cell_index_0based": 21,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/data/new.csv",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/data/new.csv",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "CLEAN_pre50-Copy2.ipynb",
+    "cell_index_0based": 21,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/data/new_test.csv",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/data/new_test.csv",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "CLEAN_pre50-Copy2.ipynb",
+    "cell_index_0based": 25,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/data/prost5/split50_seq.h5",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/data/prost5/split50_seq.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "CLEAN_pre50-Copy2.ipynb",
+    "cell_index_0based": 25,
+    "reference": "../local_snapshot/data/Embedding/split100_prott5.h5",
+    "snapshot_relative": "data/Embedding/split100_prott5.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "CLEAN_pre50-Copy2.ipynb",
+    "cell_index_0based": 25,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/data/prost5/split50_seq.h5",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/data/prost5/split50_seq.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "CLEAN_pre50-Copy2.ipynb",
+    "cell_index_0based": 25,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/data/prost5/split50_single_seq.h5",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/data/prost5/split50_single_seq.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "CLEAN_pre50-Copy2.ipynb",
+    "cell_index_0based": 25,
+    "reference": "../local_snapshot/data/Embedding/pos_augu_prost.h5",
+    "snapshot_relative": "data/Embedding/pos_augu_prost.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "CLEAN_pre50-Copy2.ipynb",
+    "cell_index_0based": 25,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/data/prost5/split50_single_seq.h5",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/data/prost5/split50_single_seq.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "CLEAN_pre50-Copy2.ipynb",
+    "cell_index_0based": 25,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/data/prost5/new_seq.h5",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/data/prost5/new_seq.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "CLEAN_pre50-Copy2.ipynb",
+    "cell_index_0based": 27,
+    "reference": "../local_snapshot/data/new.txt",
+    "snapshot_relative": "data/new.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "CLEAN_pre50-Copy2.ipynb",
+    "cell_index_0based": 28,
+    "reference": "../local_snapshot/data/uniprotkb_AND_reviewed_true_2023_07_03.tsv",
+    "snapshot_relative": "data/uniprotkb_AND_reviewed_true_2023_07_03.tsv",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "CLEAN_pre50-Copy2.ipynb",
+    "cell_index_0based": 28,
+    "reference": "../local_snapshot/data/all/all_cluster.tsv",
+    "snapshot_relative": "data/all/all_cluster.tsv",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "CLEAN_pre50-Copy2.ipynb",
+    "cell_index_0based": 28,
+    "reference": "../local_snapshot/data/all/afall_ID50_cluster.tsv",
+    "snapshot_relative": "data/all/afall_ID50_cluster.tsv",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "CLEAN_pre50-Copy2.ipynb",
+    "cell_index_0based": 28,
+    "reference": "../local_snapshot/data/all/select_cluster.tsv",
+    "snapshot_relative": "data/all/select_cluster.tsv",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "CLEAN_pre50-Copy2.ipynb",
+    "cell_index_0based": 28,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "CLEAN_pre50-Copy2.ipynb",
+    "cell_index_0based": 29,
+    "reference": "../local_snapshot/data/afall/",
+    "snapshot_relative": "data/afall/",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "CLEAN_pre50-Copy2.ipynb",
+    "cell_index_0based": 33,
+    "reference": "../local_snapshot/data/all/new_foldseek_key_cluster.tsv",
+    "snapshot_relative": "data/all/new_foldseek_key_cluster.tsv",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "CLEAN_pre50-Copy2.ipynb",
+    "cell_index_0based": 34,
+    "reference": "../local_snapshot/data/new.txt",
+    "snapshot_relative": "data/new.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "GO_homo.ipynb",
+    "cell_index_0based": 0,
+    "reference": "../local_snapshot/data/uniprotkb_AND_reviewed_true_2023_07_03.tsv",
+    "snapshot_relative": "data/uniprotkb_AND_reviewed_true_2023_07_03.tsv",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "GO_homo.ipynb",
+    "cell_index_0based": 0,
+    "reference": "../local_snapshot/data/all/all_cluster.tsv",
+    "snapshot_relative": "data/all/all_cluster.tsv",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "GO_homo.ipynb",
+    "cell_index_0based": 0,
+    "reference": "../local_snapshot/data/all/afall_ID50_cluster.tsv",
+    "snapshot_relative": "data/all/afall_ID50_cluster.tsv",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "GO_homo.ipynb",
+    "cell_index_0based": 0,
+    "reference": "../local_snapshot/data/all/select_cluster.tsv",
+    "snapshot_relative": "data/all/select_cluster.tsv",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "GO_homo.ipynb",
+    "cell_index_0based": 0,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "GO_homo.ipynb",
+    "cell_index_0based": 4,
+    "reference": "../local_snapshot/data/afall/",
+    "snapshot_relative": "data/afall/",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "GO_homo.ipynb",
+    "cell_index_0based": 39,
+    "reference": "../local_snapshot/data/GO_analysis/fun_bpGO.h5",
+    "snapshot_relative": "data/GO_analysis/fun_bpGO.h5",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "GO_homo.ipynb",
+    "cell_index_0based": 40,
+    "reference": "../local_snapshot/data/GO_analysis/fun_mfGO.h5",
+    "snapshot_relative": "data/GO_analysis/fun_mfGO.h5",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "GO_homo.ipynb",
+    "cell_index_0based": 41,
+    "reference": "../local_snapshot/data/GO_analysis/fun_ccGO.h5",
+    "snapshot_relative": "data/GO_analysis/fun_ccGO.h5",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "GO_homo.ipynb",
+    "cell_index_0based": 42,
+    "reference": "../local_snapshot/data/GO_analysis/funF_ccGO.h5",
+    "snapshot_relative": "data/GO_analysis/funF_ccGO.h5",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "GO_homo.ipynb",
+    "cell_index_0based": 42,
+    "reference": "../local_snapshot/data/GO_analysis/funF_bpGO.h5",
+    "snapshot_relative": "data/GO_analysis/funF_bpGO.h5",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "GO_homo.ipynb",
+    "cell_index_0based": 42,
+    "reference": "../local_snapshot/data/GO_analysis/funF_mfGO.h5",
+    "snapshot_relative": "data/GO_analysis/funF_mfGO.h5",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "GO_homo.ipynb",
+    "cell_index_0based": 45,
+    "reference": "../local_snapshot/data/go-basic.obo",
+    "snapshot_relative": "data/go-basic.obo",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "GO_homo.ipynb",
+    "cell_index_0based": 52,
+    "reference": "../local_snapshot/data/GO_analysis/BP_pro.txt",
+    "snapshot_relative": "data/GO_analysis/BP_pro.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "GO_homo.ipynb",
+    "cell_index_0based": 52,
+    "reference": "../local_snapshot/data/GO_analysis/MF_pro.txt",
+    "snapshot_relative": "data/GO_analysis/MF_pro.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "GO_homo.ipynb",
+    "cell_index_0based": 52,
+    "reference": "../local_snapshot/data/GO_analysis/CC_pro.txt",
+    "snapshot_relative": "data/GO_analysis/CC_pro.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "GO_homo.ipynb",
+    "cell_index_0based": 59,
+    "reference": "../local_snapshot/data/GO_analysis/BPlen_pro.txt",
+    "snapshot_relative": "data/GO_analysis/BPlen_pro.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "GO_homo.ipynb",
+    "cell_index_0based": 59,
+    "reference": "../local_snapshot/data/GO_analysis/MFlen_pro.txt",
+    "snapshot_relative": "data/GO_analysis/MFlen_pro.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "GO_homo.ipynb",
+    "cell_index_0based": 59,
+    "reference": "../local_snapshot/data/GO_analysis/CClen_pro.txt",
+    "snapshot_relative": "data/GO_analysis/CClen_pro.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "GO_homo.ipynb",
+    "cell_index_0based": 71,
+    "reference": "../local_snapshot/data/GO_analysis/BP1_pro.txt",
+    "snapshot_relative": "data/GO_analysis/BP1_pro.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "GO_homo.ipynb",
+    "cell_index_0based": 71,
+    "reference": "../local_snapshot/data/GO_analysis/MF1_pro.txt",
+    "snapshot_relative": "data/GO_analysis/MF1_pro.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "GO_homo.ipynb",
+    "cell_index_0based": 71,
+    "reference": "../local_snapshot/data/GO_analysis/CC1_pro.txt",
+    "snapshot_relative": "data/GO_analysis/CC1_pro.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "GO_homo.ipynb",
+    "cell_index_0based": 75,
+    "reference": "../local_snapshot/data/clu_key_10",
+    "snapshot_relative": "data/clu_key_10",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Summary.ipynb",
+    "cell_index_0based": 1,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "Summary.ipynb",
+    "cell_index_0based": 3,
+    "reference": "../local_snapshot/data/fine_tune_data.csv",
+    "snapshot_relative": "data/fine_tune_data.csv",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "Summary.ipynb",
+    "cell_index_0based": 4,
+    "reference": "../local_snapshot/data/all/all_cluster.tsv",
+    "snapshot_relative": "data/all/all_cluster.tsv",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Summary.ipynb",
+    "cell_index_0based": 4,
+    "reference": "../local_snapshot/data/all/afall_ID50_cluster.tsv",
+    "snapshot_relative": "data/all/afall_ID50_cluster.tsv",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Summary.ipynb",
+    "cell_index_0based": 4,
+    "reference": "../local_snapshot/data/all/select_cluster.tsv",
+    "snapshot_relative": "data/all/select_cluster.tsv",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Summary.ipynb",
+    "cell_index_0based": 7,
+    "reference": "../local_snapshot/data/afall/",
+    "snapshot_relative": "data/afall/",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Summary.ipynb",
+    "cell_index_0based": 34,
+    "reference": "../local_snapshot/data/Enzyme_proteins_embed_dic",
+    "snapshot_relative": "data/Enzyme_proteins_embed_dic",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "Summary.ipynb",
+    "cell_index_0based": 34,
+    "reference": "../local_snapshot/data/Miss_proteins_embed_dic",
+    "snapshot_relative": "data/Miss_proteins_embed_dic",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "Summary.ipynb",
+    "cell_index_0based": 35,
+    "reference": "../local_snapshot/data/Embedding/RepFunEC.h5",
+    "snapshot_relative": "data/Embedding/RepFunEC.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Summary.ipynb",
+    "cell_index_0based": 35,
+    "reference": "../local_snapshot/data/Embedding/sep3rnu5_1000e_s_128_mlp_aug_dic.h5",
+    "snapshot_relative": "data/Embedding/sep3rnu5_1000e_s_128_mlp_aug_dic.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Summary.ipynb",
+    "cell_index_0based": 35,
+    "reference": "../local_snapshot/data/Embedding/sep3sssrn_1000e_s_128_mlp_aug_dic.h5",
+    "snapshot_relative": "data/Embedding/sep3sssrn_1000e_s_128_mlp_aug_dic.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Summary.ipynb",
+    "cell_index_0based": 35,
+    "reference": "../local_snapshot/data/Embedding/sep3sr_s_128_mlp_aug_dic.h5",
+    "snapshot_relative": "data/Embedding/sep3sr_s_128_mlp_aug_dic.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Summary.ipynb",
+    "cell_index_0based": 35,
+    "reference": "../local_snapshot/data/Embedding/sep3as_c_128_mlp_aug_dic.h5",
+    "snapshot_relative": "data/Embedding/sep3as_c_128_mlp_aug_dic.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Summary.ipynb",
+    "cell_index_0based": 35,
+    "reference": "../local_snapshot/data/Embedding/split_50_prott_triplet_CLEAN.h5",
+    "snapshot_relative": "data/Embedding/split_50_prott_triplet_CLEAN.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Summary.ipynb",
+    "cell_index_0based": 50,
+    "reference": "../local_snapshot/data/afcase_uni_fun.txt",
+    "snapshot_relative": "data/afcase_uni_fun.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "Summary.ipynb",
+    "cell_index_0based": 51,
+    "reference": "../local_snapshot/data/afcase_uni_nofun.txt",
+    "snapshot_relative": "data/afcase_uni_nofun.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "Summary.ipynb",
+    "cell_index_0based": 58,
+    "reference": "../local_snapshot/data/alignment_db/afcase_uninofun",
+    "snapshot_relative": "data/alignment_db/afcase_uninofun",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Summary.ipynb",
+    "cell_index_0based": 61,
+    "reference": "../local_snapshot/data/Embedding/RepFunFold_sep.h5",
+    "snapshot_relative": "data/Embedding/RepFunFold_sep.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Summary.ipynb",
+    "cell_index_0based": 61,
+    "reference": "../local_snapshot/data/Embedding/RepFunFold_No.h5",
+    "snapshot_relative": "data/Embedding/RepFunFold_No.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Summary.ipynb",
+    "cell_index_0based": 61,
+    "reference": "../local_snapshot/data/Embedding/RepFunFold.h5",
+    "snapshot_relative": "data/Embedding/RepFunFold.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Summary.ipynb",
+    "cell_index_0based": 61,
+    "reference": "../local_snapshot/data/Embedding/RepFunEC_sep.h5",
+    "snapshot_relative": "data/Embedding/RepFunEC_sep.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Summary.ipynb",
+    "cell_index_0based": 61,
+    "reference": "../local_snapshot/data/Embedding/RepFunEC_No.h5",
+    "snapshot_relative": "data/Embedding/RepFunEC_No.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Summary.ipynb",
+    "cell_index_0based": 61,
+    "reference": "../local_snapshot/data/Embedding/RepFunEC.h5",
+    "snapshot_relative": "data/Embedding/RepFunEC.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Summary.ipynb",
+    "cell_index_0based": 61,
+    "reference": "../local_snapshot/data/Embedding/sep3rnu5_1000e_s_128_mlp_aug_dic.h5",
+    "snapshot_relative": "data/Embedding/sep3rnu5_1000e_s_128_mlp_aug_dic.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Summary.ipynb",
+    "cell_index_0based": 61,
+    "reference": "../local_snapshot/data/Embedding/sep3sssrn_1000e_s_128_mlp_aug_dic.h5",
+    "snapshot_relative": "data/Embedding/sep3sssrn_1000e_s_128_mlp_aug_dic.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Summary.ipynb",
+    "cell_index_0based": 61,
+    "reference": "../local_snapshot/data/Embedding/sep3sr_s_128_mlp_aug_dic.h5",
+    "snapshot_relative": "data/Embedding/sep3sr_s_128_mlp_aug_dic.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Summary.ipynb",
+    "cell_index_0based": 61,
+    "reference": "../local_snapshot/data/Embedding/sep3as_c_128_mlp_aug_dic.h5",
+    "snapshot_relative": "data/Embedding/sep3as_c_128_mlp_aug_dic.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Summary.ipynb",
+    "cell_index_0based": 61,
+    "reference": "../local_snapshot/data/Embedding/split_50_prott_triplet_CLEAN.h5",
+    "snapshot_relative": "data/Embedding/split_50_prott_triplet_CLEAN.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Summary.ipynb",
+    "cell_index_0based": 105,
+    "reference": "../local_snapshot/data/foldseek_Clu_key.txt",
+    "snapshot_relative": "data/foldseek_Clu_key.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "Summary.ipynb",
+    "cell_index_0based": 106,
+    "reference": "../local_snapshot/data/all/new_foldseek_key_cluster.tsv",
+    "snapshot_relative": "data/all/new_foldseek_key_cluster.tsv",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Summary.ipynb",
+    "cell_index_0based": 115,
+    "reference": "../local_snapshot/data/new.txt",
+    "snapshot_relative": "data/new.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "Summary.ipynb",
+    "cell_index_0based": 124,
+    "reference": "../local_snapshot/data/1-AFDBClusters-entryId_repId_taxId.tsv",
+    "snapshot_relative": "data/1-AFDBClusters-entryId_repId_taxId.tsv",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "Summary.ipynb",
+    "cell_index_0based": 135,
+    "reference": "../local_snapshot/data/5-allmembers-repId-entryId-cluFlag-taxId.tsv",
+    "snapshot_relative": "data/5-allmembers-repId-entryId-cluFlag-taxId.tsv",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 0,
+    "reference": "../local_snapshot/data/Clu_all_10.txt",
+    "snapshot_relative": "data/Clu_all_10.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 0,
+    "reference": "../local_snapshot/data/Mem_all.txt",
+    "snapshot_relative": "data/Mem_all.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 0,
+    "reference": "../local_snapshot/data/univer_10.txt",
+    "snapshot_relative": "data/univer_10.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 0,
+    "reference": "../local_snapshot/data/Clu_all.txt",
+    "snapshot_relative": "data/Clu_all.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 22,
+    "reference": "../local_snapshot/data/Universe_1000_2000/uniprotID_file1",
+    "snapshot_relative": "data/Universe_1000_2000/uniprotID_file1",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 22,
+    "reference": "../local_snapshot/data/Universe_1000_2000/uniprotID_file2",
+    "snapshot_relative": "data/Universe_1000_2000/uniprotID_file2",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 22,
+    "reference": "../local_snapshot/data/Universe_1000_2000/uniprotID_file3",
+    "snapshot_relative": "data/Universe_1000_2000/uniprotID_file3",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 22,
+    "reference": "../local_snapshot/data/Universe_1000_2000/uniprotID_file4",
+    "snapshot_relative": "data/Universe_1000_2000/uniprotID_file4",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 22,
+    "reference": "../local_snapshot/data/Universe_1000_2000/uniprotID_file5",
+    "snapshot_relative": "data/Universe_1000_2000/uniprotID_file5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 22,
+    "reference": "../local_snapshot/data/Universe_1000_2000/uniprotID_file6",
+    "snapshot_relative": "data/Universe_1000_2000/uniprotID_file6",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 22,
+    "reference": "../local_snapshot/data/Universe_1000_2000/uniprotID_file7",
+    "snapshot_relative": "data/Universe_1000_2000/uniprotID_file7",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 25,
+    "reference": "../local_snapshot/data/Universe_1000_2000/sample.fasta",
+    "snapshot_relative": "data/Universe_1000_2000/sample.fasta",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 26,
+    "reference": "../local_snapshot/data/Universe_1000_2000/",
+    "snapshot_relative": "data/Universe_1000_2000/",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 29,
+    "reference": "../local_snapshot/data/Universe_1000_2000/",
+    "snapshot_relative": "data/Universe_1000_2000/",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 30,
+    "reference": "../local_snapshot/data/Universe_1000_2000/A0A075AY95.fasta",
+    "snapshot_relative": "data/Universe_1000_2000/A0A075AY95.fasta",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 30,
+    "reference": "../local_snapshot/data/Universe_1000_2000/A0A443QNP2.fasta",
+    "snapshot_relative": "data/Universe_1000_2000/A0A443QNP2.fasta",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 30,
+    "reference": "../local_snapshot/data/Universe_1000_2000/A0A800MQN8.fasta",
+    "snapshot_relative": "data/Universe_1000_2000/A0A800MQN8.fasta",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 30,
+    "reference": "../local_snapshot/data/Universe_1000_2000/A0A7C3H3T4.fasta",
+    "snapshot_relative": "data/Universe_1000_2000/A0A7C3H3T4.fasta",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 30,
+    "reference": "../local_snapshot/data/Universe_1000_2000/A0A817HC46.fasta",
+    "snapshot_relative": "data/Universe_1000_2000/A0A817HC46.fasta",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 30,
+    "reference": "../local_snapshot/data/Universe_1000_2000/A0A7V3U1N3.fasta",
+    "snapshot_relative": "data/Universe_1000_2000/A0A7V3U1N3.fasta",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 30,
+    "reference": "../local_snapshot/data/Universe_1000_2000/A0A7C4VKZ4.fasta",
+    "snapshot_relative": "data/Universe_1000_2000/A0A7C4VKZ4.fasta",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 30,
+    "reference": "../local_snapshot/data/Universe_1000_2000/A0A449G633.fasta",
+    "snapshot_relative": "data/Universe_1000_2000/A0A449G633.fasta",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 30,
+    "reference": "../local_snapshot/data/Universe_1000_2000/A0A081NGI5.fasta",
+    "snapshot_relative": "data/Universe_1000_2000/A0A081NGI5.fasta",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 30,
+    "reference": "../local_snapshot/data/Universe_1000_2000/A0A7C2YJ26.fasta",
+    "snapshot_relative": "data/Universe_1000_2000/A0A7C2YJ26.fasta",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 30,
+    "reference": "../local_snapshot/data/Universe_1000_2000/A0A7C2R1P4.fasta",
+    "snapshot_relative": "data/Universe_1000_2000/A0A7C2R1P4.fasta",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 30,
+    "reference": "../local_snapshot/data/Universe_1000_2000/A0A7C3STT2.fasta",
+    "snapshot_relative": "data/Universe_1000_2000/A0A7C3STT2.fasta",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 30,
+    "reference": "../local_snapshot/data/Universe_1000_2000/A0A7J4FXH1.fasta",
+    "snapshot_relative": "data/Universe_1000_2000/A0A7J4FXH1.fasta",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 30,
+    "reference": "../local_snapshot/data/Universe_1000_2000/A0A447TRE7.fasta",
+    "snapshot_relative": "data/Universe_1000_2000/A0A447TRE7.fasta",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 30,
+    "reference": "../local_snapshot/data/Universe_1000_2000/A0A7J7Q9H8.fasta",
+    "snapshot_relative": "data/Universe_1000_2000/A0A7J7Q9H8.fasta",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 30,
+    "reference": "../local_snapshot/data/Universe_1000_2000/A0A7C3GBZ3.fasta",
+    "snapshot_relative": "data/Universe_1000_2000/A0A7C3GBZ3.fasta",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 30,
+    "reference": "../local_snapshot/data/Universe_1000_2000/A0A446TIR4.fasta",
+    "snapshot_relative": "data/Universe_1000_2000/A0A446TIR4.fasta",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 30,
+    "reference": "../local_snapshot/data/Universe_1000_2000/A0A818D2V2.fasta",
+    "snapshot_relative": "data/Universe_1000_2000/A0A818D2V2.fasta",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 30,
+    "reference": "../local_snapshot/data/Universe_1000_2000/A0A090SA30.fasta",
+    "snapshot_relative": "data/Universe_1000_2000/A0A090SA30.fasta",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 30,
+    "reference": "../local_snapshot/data/Universe_1000_2000/A0A7R8YNI5.fasta",
+    "snapshot_relative": "data/Universe_1000_2000/A0A7R8YNI5.fasta",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 30,
+    "reference": "../local_snapshot/data/Universe_1000_2000/A0A7K1I8X0.fasta",
+    "snapshot_relative": "data/Universe_1000_2000/A0A7K1I8X0.fasta",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 30,
+    "reference": "../local_snapshot/data/Universe_1000_2000/A0A090M7H2.fasta",
+    "snapshot_relative": "data/Universe_1000_2000/A0A090M7H2.fasta",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 30,
+    "reference": "../local_snapshot/data/Universe_1000_2000/A0A7J7AE31.fasta",
+    "snapshot_relative": "data/Universe_1000_2000/A0A7J7AE31.fasta",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 30,
+    "reference": "../local_snapshot/data/Universe_1000_2000/A0A7V1HDP3.fasta",
+    "snapshot_relative": "data/Universe_1000_2000/A0A7V1HDP3.fasta",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 30,
+    "reference": "../local_snapshot/data/Universe_1000_2000/A0A482UPI4.fasta",
+    "snapshot_relative": "data/Universe_1000_2000/A0A482UPI4.fasta",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 30,
+    "reference": "../local_snapshot/data/Universe_1000_2000/A0A091D5W7.fasta",
+    "snapshot_relative": "data/Universe_1000_2000/A0A091D5W7.fasta",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 35,
+    "reference": "../local_snapshot/data/",
+    "snapshot_relative": "data/",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 44,
+    "reference": "../local_snapshot/data/uniprotkb_AND_reviewed_true_2023_07_03.tsv",
+    "snapshot_relative": "data/uniprotkb_AND_reviewed_true_2023_07_03.tsv",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 44,
+    "reference": "../local_snapshot/data/all/all_cluster.tsv",
+    "snapshot_relative": "data/all/all_cluster.tsv",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 44,
+    "reference": "../local_snapshot/data/all/afall_ID50_cluster.tsv",
+    "snapshot_relative": "data/all/afall_ID50_cluster.tsv",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 44,
+    "reference": "../local_snapshot/data/all/select_cluster.tsv",
+    "snapshot_relative": "data/all/select_cluster.tsv",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 44,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cell_index_0based": 46,
+    "reference": "../local_snapshot/data/afall/",
+    "snapshot_relative": "data/afall/",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "disen_part.ipynb",
+    "cell_index_0based": 2,
+    "reference": "../local_snapshot/data/Embedding/split100_prostt5.h5",
+    "snapshot_relative": "data/Embedding/split100_prostt5.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "disen_part.ipynb",
+    "cell_index_0based": 2,
+    "reference": "../local_snapshot/data/Embedding/Bag_100.h5",
+    "snapshot_relative": "data/Embedding/Bag_100.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "disen_part.ipynb",
+    "cell_index_0based": 2,
+    "reference": "../local_snapshot/data/Disen_Data_Labels_int.h5",
+    "snapshot_relative": "data/Disen_Data_Labels_int.h5",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "embeding.ipynb",
+    "cell_index_0based": 1,
+    "reference": "../local_snapshot/data/mat_3di.txt",
+    "snapshot_relative": "data/mat_3di.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "embeding.ipynb",
+    "cell_index_0based": 2,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/data/new2.csv",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/data/new2.csv",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "embeding.ipynb",
+    "cell_index_0based": 4,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/data/sub3Di/new_sub3Di.h5",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/data/sub3Di/new_sub3Di.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "embeding.ipynb",
+    "cell_index_0based": 5,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "embeding.ipynb",
+    "cell_index_0based": 6,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/data/prost5/split10_seq.h5",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/data/prost5/split10_seq.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "evaluate_models.ipynb",
+    "cell_index_0based": 0,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "evaluate_models.ipynb",
+    "cell_index_0based": 10,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/data/prost5/New_embeddings.h5",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/data/prost5/New_embeddings.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "evaluate_models.ipynb",
+    "cell_index_0based": 10,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/data/prost5/some_embeddings.h5",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/data/prost5/some_embeddings.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "evaluate_models.ipynb",
+    "cell_index_0based": 10,
+    "reference": "../local_snapshot/data/New3Di.fasta",
+    "snapshot_relative": "data/New3Di.fasta",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "evaluate_models.ipynb",
+    "cell_index_0based": 14,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/data/sub3Di/new_sub3Di.h5",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/data/sub3Di/new_sub3Di.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "evaluate_models.ipynb",
+    "cell_index_0based": 14,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/data/sub3Di/sub3Di.h5",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/data/sub3Di/sub3Di.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "evaluate_models.ipynb",
+    "cell_index_0based": 16,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/data/prost5/new_seq.h5",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/data/prost5/new_seq.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "evaluate_models.ipynb",
+    "cell_index_0based": 16,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/data/prost5/split10_seq.h5",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/data/prost5/split10_seq.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "foldseek_clustering.ipynb",
+    "cell_index_0based": 4,
+    "reference": "../local_snapshot/data/afcase",
+    "snapshot_relative": "data/afcase",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "foldseek_clustering.ipynb",
+    "cell_index_0based": 4,
+    "reference": "../local_snapshot/data/folddb/folddb",
+    "snapshot_relative": "data/folddb/folddb",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "foldseek_clustering.ipynb",
+    "cell_index_0based": 4,
+    "reference": "../local_snapshot/data/alignment_db/alignment_db",
+    "snapshot_relative": "data/alignment_db/alignment_db",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "foldseek_clustering.ipynb",
+    "cell_index_0based": 4,
+    "reference": "../local_snapshot/data/dataframes/alignment_df.tsv",
+    "snapshot_relative": "data/dataframes/alignment_df.tsv",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "foldseek_clustering.ipynb",
+    "cell_index_0based": 4,
+    "reference": "../local_snapshot/data/dataframes/alignment_matrix.csv",
+    "snapshot_relative": "data/dataframes/alignment_matrix.csv",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "foldseek_clustering.ipynb",
+    "cell_index_0based": 18,
+    "reference": "../local_snapshot/data/case/case_1.17.99.9",
+    "snapshot_relative": "data/case/case_1.17.99.9",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "get_data.ipynb",
+    "cell_index_0based": 0,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/data/new.csv",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/data/new.csv",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "get_data.ipynb",
+    "cell_index_0based": 1,
+    "reference": "../local_snapshot/data/New.txt",
+    "snapshot_relative": "data/New.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "test_CLEAN.ipynb",
+    "cell_index_0based": 3,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "test_CLEAN.ipynb",
+    "cell_index_0based": 6,
+    "reference": "../local_snapshot/data/caseID.txt",
+    "snapshot_relative": "data/caseID.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "test_CLEAN.ipynb",
+    "cell_index_0based": 28,
+    "reference": "../local_snapshot/data/3Di2.fasta",
+    "snapshot_relative": "data/3Di2.fasta",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "test_CLEAN.ipynb",
+    "cell_index_0based": 36,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/data/prost5/some_embeddings.h5",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/data/prost5/some_embeddings.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "test_CLEAN.ipynb",
+    "cell_index_0based": 45,
+    "reference": "../local_snapshot/data/mat_3di.txt",
+    "snapshot_relative": "data/mat_3di.txt",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "test_CLEAN.ipynb",
+    "cell_index_0based": 47,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/data/split10_re2.csv",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/data/split10_re2.csv",
+    "available_in_snapshot": true
+  },
+  {
+    "notebook": "test_CLEAN.ipynb",
+    "cell_index_0based": 52,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/data/sub3Di/sub3Di.h5",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/data/sub3Di/sub3Di.h5",
+    "available_in_snapshot": false
+  },
+  {
+    "notebook": "test_CLEAN.ipynb",
+    "cell_index_0based": 59,
+    "reference": "../local_snapshot/tttianhao-CLEAN-0cf2cac/",
+    "snapshot_relative": "tttianhao-CLEAN-0cf2cac/",
+    "available_in_snapshot": true
+  }
+]

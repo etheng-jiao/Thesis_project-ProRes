@@ -1,0 +1,9 @@
+notebook,cell_index_0based,model_name,samples,ec_count,precision,recall,f1,acc,auc,status
+3 CLEAN & SepFun.ipynb,51,RepFunFoldEC_sep,194,98,0.308,0.292,0.293,0.366,,stored notebook output; not rerun
+CLEAN_pre50-Copy1.ipynb,22,split50_triplet,220,111,0.326,0.313,0.311,0.391,,stored notebook output; not rerun
+CLEAN_pre50-Copy2.ipynb,26,split_con_augu_50_prost_triplet,56,29,0.897,0.862,0.871,0.857,,stored notebook output; not rerun
+evaluate_models.ipynb,9,split10_triplet,237,132,0.213,0.205,0.202,,0.602,stored notebook output; not rerun
+evaluate_models.ipynb,13,split10pro_triplet,237,132,0.0741,0.0456,0.0502,,0.523,stored notebook output; not rerun
+evaluate_models.ipynb,15,split10_sub3Di_triplet,237,132,0.019,0.0195,0.0183,,0.51,stored notebook output; not rerun
+evaluate_models.ipynb,17,split10proSEQ_triplet,237,132,0.224,0.205,0.204,,0.602,stored notebook output; not rerun
+test_CLEAN.ipynb,44,split10pro_triplet,392,177,0.222,0.213,0.207,,0.606,stored notebook output; not rerun

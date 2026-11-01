@@ -1,0 +1,176 @@
+[
+  {
+    "notebook": "0 Data Exploration.ipynb",
+    "cells": 118,
+    "stored_outputs": 63,
+    "headings": []
+  },
+  {
+    "notebook": "1 Function Enrichment Analysis.ipynb",
+    "cells": 64,
+    "stored_outputs": 14,
+    "headings": [
+      "# Function Enrichment Analysis ",
+      "## Data Processing for Known Enzyme Universe",
+      "## EC Consistent Analysis",
+      "## GO Enrichment Analysis",
+      "### Input Data Preparation",
+      "### Output Data Analysis",
+      "## Functional Embedding Analysis"
+    ]
+  },
+  {
+    "notebook": "1.17.99.9.ipynb",
+    "cells": 20,
+    "stored_outputs": 13,
+    "headings": []
+  },
+  {
+    "notebook": "2 Unknown Universe Exploration.ipynb",
+    "cells": 110,
+    "stored_outputs": 40,
+    "headings": []
+  },
+  {
+    "notebook": "3 CLEAN & SepFun.ipynb",
+    "cells": 102,
+    "stored_outputs": 123,
+    "headings": []
+  },
+  {
+    "notebook": "Analysis.ipynb",
+    "cells": 37,
+    "stored_outputs": 23,
+    "headings": []
+  },
+  {
+    "notebook": "CLEAN_pre50-Copy1.ipynb",
+    "cells": 46,
+    "stored_outputs": 111,
+    "headings": []
+  },
+  {
+    "notebook": "CLEAN_pre50-Copy2.ipynb",
+    "cells": 52,
+    "stored_outputs": 112,
+    "headings": []
+  },
+  {
+    "notebook": "Embedding Analysis.ipynb",
+    "cells": 3,
+    "stored_outputs": 1,
+    "headings": []
+  },
+  {
+    "notebook": "Foldseek_Annotator.ipynb",
+    "cells": 3,
+    "stored_outputs": 0,
+    "headings": [
+      ""
+    ]
+  },
+  {
+    "notebook": "GO_homo.ipynb",
+    "cells": 78,
+    "stored_outputs": 39,
+    "headings": []
+  },
+  {
+    "notebook": "PT5_LoRA_Finetuning_per_prot.ipynb",
+    "cells": 48,
+    "stored_outputs": 28,
+    "headings": [
+      "# Prot T5 Finetuning\n# per protein prediction\n\nThis notebook allows you to finetune ProtT5 to your own datasets\n\nThe protein language model ProtT5 was first published [here](https://ieeexplore.ieee.org/document/9477085) and is available on [github](https://github.com/agemagician/ProtTrans). We use the [huggingface](https://huggingface.co/Rostlab/prot_t5_xl_uniref50) checkpoint.\n\nFor better perfomance we apply [Parameter-Efficient Fine-Tuning (PEFT)](https://huggingface.co/blog/peft). For this we",
+      "## Imports and env. variables\n\n\n**set a working dir below** model weights will be saved there",
+      "# Environment to run this notebook\n\n\nThese are the versions of the core packages we use to run this notebook:",
+      "**For easy setup of this conda environment you can use the finetuning.yml File provided in this folder**\n\ncheck here for [setting up env from a yml File](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file)",
+      "# Input data\n\nProvide your training and validation data in seperate pandas dataframes \n\nexample shown below",
+      "**Modify the data loading part above as needed for your data**\n\nTo run the training you need two dataframes (training and validation) each with the columns \"sequence\" and \"label\"\n\nLabels are:\n+ a float value for **regression**\n+ the class as an integer for **classification** (from 0 to number of classes - 1)",
+      "# PT5 Model and Low Rank Adaptation",
+      "## LoRA modification definition\n\nImplementation taken from https://github.com/r-three/t-few\n\n(https://github.com/r-three/t-few/blob/master/src/models/lora.py, https://github.com/r-three/t-few/tree/master/configs)",
+      "## Classification model definition \n\nadding a classifcation or regression head (num_labels = 1) on top of the encoder model\n\nmodified from https://gist.github.com/sam-writer/723baf81c501d9d24c6955f201d86bbb",
+      "## Modified ProtT5 model\nthis creates a ProtT5 model with prediction head and LoRA modification",
+      "# Training Definition ",
+      "## Deepspeed config",
+      "## Training functions",
+      "# Run Training",
+      "## Training",
+      "## Plot results",
+      "# Save and Load the finetuned model",
+      "This saves only the finetuned weights to a .pth file\n\nIt is a 14 MB File, while the entire model would be around 4.8 GB",
+      "To load the weights again, we initialize a new PT5 model from the pretrained checkpoint and load the LoRA weights afterwards\n\nYou need to specifiy the correct num_labels here",
+      "To check if the original and the reloaded models are identical we can compare weights",
+      "# Make predictions on a test set",
+      "This time we take the test data",
+      "Then we create predictions on our test data using the model we trained before",
+      "Finally, we compute our desired performance metric for the test data",
+      "Great, 0.85 Spearman is a decent test performance for this dataset (see results in [Table 4](https://openreview.net/pdf?id=p2dMLEwL8tF))\n\nMore training epochs and / or hyperparameter optimization will most likely increase performance"
+    ]
+  },
+  {
+    "notebook": "ProsT5.ipynb",
+    "cells": 5,
+    "stored_outputs": 6,
+    "headings": []
+  },
+  {
+    "notebook": "Summary.ipynb",
+    "cells": 140,
+    "stored_outputs": 51,
+    "headings": []
+  },
+  {
+    "notebook": "Universe-Copy1.ipynb",
+    "cells": 55,
+    "stored_outputs": 27,
+    "headings": []
+  },
+  {
+    "notebook": "Untitled.ipynb",
+    "cells": 0,
+    "stored_outputs": 0,
+    "headings": []
+  },
+  {
+    "notebook": "Untitled1.ipynb",
+    "cells": 5,
+    "stored_outputs": 1,
+    "headings": []
+  },
+  {
+    "notebook": "disen_part.ipynb",
+    "cells": 11,
+    "stored_outputs": 2,
+    "headings": []
+  },
+  {
+    "notebook": "embeding.ipynb",
+    "cells": 12,
+    "stored_outputs": 69,
+    "headings": []
+  },
+  {
+    "notebook": "evaluate_models.ipynb",
+    "cells": 19,
+    "stored_outputs": 24,
+    "headings": []
+  },
+  {
+    "notebook": "foldseek_clustering.ipynb",
+    "cells": 27,
+    "stored_outputs": 39,
+    "headings": []
+  },
+  {
+    "notebook": "get_data.ipynb",
+    "cells": 11,
+    "stored_outputs": 8,
+    "headings": []
+  },
+  {
+    "notebook": "test_CLEAN.ipynb",
+    "cells": 63,
+    "stored_outputs": 170,
+    "headings": []
+  }
+]

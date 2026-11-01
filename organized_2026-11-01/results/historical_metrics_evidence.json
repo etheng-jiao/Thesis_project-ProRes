@@ -1,0 +1,66 @@
+[
+  {
+    "notebook": "3 CLEAN & SepFun.ipynb",
+    "cell_index_0based": 51,
+    "execution_count": 100,
+    "source": "true_m,pred_m = infer_maxsep(\"split50\", \"new_test\", report_metrics=True,\npretrained=False, model_name=\"RepFunFoldEC_sep\")",
+    "stored_output": "############ EC calling results using maximum separation ############\n---------------------------------------------------------------------------\n>>> total samples: 194 | total ec: 98 \n>>> precision: 0.308 | recall: 0.292| F1: 0.293| ACC: 0.366  \n---------------------------------------------------------------------------\n",
+    "output_type": "stream"
+  },
+  {
+    "notebook": "CLEAN_pre50-Copy1.ipynb",
+    "cell_index_0based": 22,
+    "execution_count": 148,
+    "source": "infer_maxsep(\"split50\", \"new_test\", report_metrics=True,\npretrained=False, model_name=\"split50_triplet\")",
+    "stored_output": "############ EC calling results using maximum separation ############\n---------------------------------------------------------------------------\n>>> total samples: 220 | total ec: 111 \n>>> precision: 0.326 | recall: 0.313| F1: 0.311| ACC: 0.391  \n---------------------------------------------------------------------------\n",
+    "output_type": "stream"
+  },
+  {
+    "notebook": "CLEAN_pre50-Copy2.ipynb",
+    "cell_index_0based": 26,
+    "execution_count": 147,
+    "source": "infer_maxsep(\"split50\", \"new_test\", report_metrics=True,\npretrained=False, model_name=\"split_con_augu_50_prost_triplet\") ",
+    "stored_output": "############ EC calling results using maximum separation ############\n---------------------------------------------------------------------------\n>>> total samples: 56 | total ec: 29 \n>>> precision: 0.897 | recall: 0.862| F1: 0.871| ACC: 0.857  \n---------------------------------------------------------------------------\n",
+    "output_type": "stream"
+  },
+  {
+    "notebook": "evaluate_models.ipynb",
+    "cell_index_0based": 9,
+    "execution_count": 49,
+    "source": "infer_maxsep(\"split10_re2\", \"new2\", report_metrics=True,\npretrained=False, model_name=\"split10_triplet\")",
+    "stored_output": "############ EC calling results using maximum separation ############\n---------------------------------------------------------------------------\n>>> total samples: 237 | total ec: 132 \n>>> precision: 0.213 | recall: 0.205| F1: 0.202 | AUC: 0.602 \n---------------------------------------------------------------------------\n",
+    "output_type": "stream"
+  },
+  {
+    "notebook": "evaluate_models.ipynb",
+    "cell_index_0based": 13,
+    "execution_count": 28,
+    "source": "infer_maxsep(\"split10_re2\", \"new2\", report_metrics=True,\npretrained=False, model_name=\"split10pro_triplet\")",
+    "stored_output": "############ EC calling results using maximum separation ############\n---------------------------------------------------------------------------\n>>> total samples: 237 | total ec: 132 \n>>> precision: 0.0741 | recall: 0.0456| F1: 0.0502 | AUC: 0.523 \n---------------------------------------------------------------------------\n",
+    "output_type": "stream"
+  },
+  {
+    "notebook": "evaluate_models.ipynb",
+    "cell_index_0based": 15,
+    "execution_count": 54,
+    "source": "infer_maxsep(\"split10_re2\", \"new2\", report_metrics=True,\npretrained=False, model_name=\"split10_sub3Di_triplet\")",
+    "stored_output": "############ EC calling results using maximum separation ############\n---------------------------------------------------------------------------\n>>> total samples: 237 | total ec: 132 \n>>> precision: 0.019 | recall: 0.0195| F1: 0.0183 | AUC: 0.51 \n---------------------------------------------------------------------------\n",
+    "output_type": "stream"
+  },
+  {
+    "notebook": "evaluate_models.ipynb",
+    "cell_index_0based": 17,
+    "execution_count": 58,
+    "source": "infer_maxsep(\"split10_re2\", \"new2\", report_metrics=True,\npretrained=False, model_name=\"split10proSEQ_triplet\")",
+    "stored_output": "############ EC calling results using maximum separation ############\n---------------------------------------------------------------------------\n>>> total samples: 237 | total ec: 132 \n>>> precision: 0.224 | recall: 0.205| F1: 0.204 | AUC: 0.602 \n---------------------------------------------------------------------------\n",
+    "output_type": "stream"
+  },
+  {
+    "notebook": "test_CLEAN.ipynb",
+    "cell_index_0based": 44,
+    "execution_count": 450,
+    "source": "\ninfer_maxsep(\"split10_re2\", \"new\", report_metrics=True,\npretrained=False, model_name=\"split10pro_triplet\")",
+    "stored_output": "############ EC calling results using maximum separation ############\n---------------------------------------------------------------------------\n>>> total samples: 392 | total ec: 177 \n>>> precision: 0.222 | recall: 0.213| F1: 0.207 | AUC: 0.606 \n---------------------------------------------------------------------------\n",
+    "output_type": "stream"
+  }
+]

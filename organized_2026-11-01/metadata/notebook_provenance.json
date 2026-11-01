@@ -1,0 +1,163 @@
+[
+  {
+    "source": "Code/0 Data Exploration.ipynb",
+    "sha256": "b75168900bd0c304eba507efe7292c322b38588342e47b2112ae445a39a96116",
+    "export": "notebooks/0 Data Exploration.ipynb",
+    "export_sha256": "8a998281c70ffea835c66813a2490907203186c23b037566ed119194d7f8da96",
+    "changes": "outputs removed; machine paths replaced; cell metadata cleared; not executed"
+  },
+  {
+    "source": "Code/1 Function Enrichment Analysis.ipynb",
+    "sha256": "5ebf195190963fccfb2746cdb6197aa543e62fe7f9858a4b5689a14640c37db9",
+    "export": "notebooks/1 Function Enrichment Analysis.ipynb",
+    "export_sha256": "84287e6d56c81e7ec25e82408dcc604fa7933d5bfd1f05dfa17b8e9655a552a7",
+    "changes": "outputs removed; machine paths replaced; cell metadata cleared; not executed"
+  },
+  {
+    "source": "Code/1.17.99.9.ipynb",
+    "sha256": "67d8781ed0eb3ff74b7e91d8b3718771c8d6d7671f7d121c1e2770b2224b77d3",
+    "export": "notebooks/1.17.99.9.ipynb",
+    "export_sha256": "5ac20fd066189e04eeddf9bd9339540a0b479dd2361ea3c8c78bbae2f37e0d67",
+    "changes": "outputs removed; machine paths replaced; cell metadata cleared; not executed"
+  },
+  {
+    "source": "Code/2 Unknown Universe Exploration.ipynb",
+    "sha256": "6c93b19d130cae03b6d7decc71c39fdc1fc72f980b48f37e3e0b55fbf910cc35",
+    "export": "notebooks/2 Unknown Universe Exploration.ipynb",
+    "export_sha256": "024d3fdd6ebe78f0a4735ef379ff901b90a9bd35c8b5c192beeff9072fae8aba",
+    "changes": "outputs removed; machine paths replaced; cell metadata cleared; not executed"
+  },
+  {
+    "source": "Code/3 CLEAN & SepFun.ipynb",
+    "sha256": "38311e4a9e35c222bf1e0b5be3e8ce27197b4c2f1c401d39d7f5d65b600a8053",
+    "export": "notebooks/3 CLEAN & SepFun.ipynb",
+    "export_sha256": "1c37d2b069efc7019caeeeb049b4b3cd95aa1d16cc919f1e35e1a61aaaf55086",
+    "changes": "outputs removed; machine paths replaced; cell metadata cleared; not executed"
+  },
+  {
+    "source": "Code/Analysis.ipynb",
+    "sha256": "0fbb9af498425496467e0c2e98ba63b0524ba7e67848f8176375a65fbce29016",
+    "export": "notebooks/Analysis.ipynb",
+    "export_sha256": "df5ee75f452072a88ce72de9bb42fc531e49b21ea19a396d536f6569d984278e",
+    "changes": "outputs removed; machine paths replaced; cell metadata cleared; not executed"
+  },
+  {
+    "source": "Code/CLEAN_pre50-Copy1.ipynb",
+    "sha256": "c5bdc3156c7c63410028d408833c4fa6987823c0761db5208a7e7240094daa9b",
+    "export": "notebooks/CLEAN_pre50-Copy1.ipynb",
+    "export_sha256": "7256afbcb5a5f94fc758543678c52f196743cc9e36b0ecc2d85681529eaddc66",
+    "changes": "outputs removed; machine paths replaced; cell metadata cleared; not executed"
+  },
+  {
+    "source": "Code/CLEAN_pre50-Copy2.ipynb",
+    "sha256": "597130c9c972b00b6b3db5e477965e71aee8dbc27541011c2fc29464c3abf05b",
+    "export": "notebooks/CLEAN_pre50-Copy2.ipynb",
+    "export_sha256": "0df6c3e89935191b2c551bfd57b1551923ae4a60ad89c4d0e52625dd27040709",
+    "changes": "outputs removed; machine paths replaced; cell metadata cleared; not executed"
+  },
+  {
+    "source": "Code/Embedding Analysis.ipynb",
+    "sha256": "be5f93a14a870c6e3d872e5dd339d577a58d718902f55f497c0d849b8f8351b4",
+    "export": "notebooks/Embedding Analysis.ipynb",
+    "export_sha256": "7ca8ae177cc8a25bdb46bd2502e68145ba3491a55f02670bbf33801756d251ff",
+    "changes": "outputs removed; machine paths replaced; cell metadata cleared; not executed"
+  },
+  {
+    "source": "Code/Foldseek_Annotator.ipynb",
+    "sha256": "2c89178f5cefd84d05bcdc659dfc79a4f0ac96c2205235d77de24f0421d925fc",
+    "export": "notebooks/Foldseek_Annotator.ipynb",
+    "export_sha256": "6db6077bb0a09ffe88e761c7947c84038da3c08e89b2a58aff8af8dfb9d82fb9",
+    "changes": "outputs removed; machine paths replaced; cell metadata cleared; not executed"
+  },
+  {
+    "source": "Code/GO_homo.ipynb",
+    "sha256": "1f8201ad15e92dcb582f9a13d80865fd3801b69db37c0948696cc171785e28fb",
+    "export": "notebooks/GO_homo.ipynb",
+    "export_sha256": "91340326adae9f9f1517370959e34eac9093f61373f7e1925e5721942411b144",
+    "changes": "outputs removed; machine paths replaced; cell metadata cleared; not executed"
+  },
+  {
+    "source": "Code/PT5_LoRA_Finetuning_per_prot.ipynb",
+    "sha256": "67a75abda283bf6470448bfc6cb404908c2f87c69f1414410883951c2d4eca6a",
+    "export": "notebooks/PT5_LoRA_Finetuning_per_prot.ipynb",
+    "export_sha256": "9401c0934a89c72d540d1e5b5b31a33012954dc45975458f2dc07eb8cbd54202",
+    "changes": "outputs removed; machine paths replaced; cell metadata cleared; not executed"
+  },
+  {
+    "source": "Code/ProsT5.ipynb",
+    "sha256": "84dc215fa945da30c87e17b9d482bf6fb51f57a7a2a781965a66a6fb26306d7d",
+    "export": "notebooks/ProsT5.ipynb",
+    "export_sha256": "00f877f66ab527e41fbde00a2e0ed1b0d025c61db9e2c10fee3136d23b5927ae",
+    "changes": "outputs removed; machine paths replaced; cell metadata cleared; not executed"
+  },
+  {
+    "source": "Code/Summary.ipynb",
+    "sha256": "87b5e2b0ee73052ab166f643d66baff952ddeb39c190fc7acd62e5bd2415a3f4",
+    "export": "notebooks/Summary.ipynb",
+    "export_sha256": "9496b842023593460394e79378f43425d2739d4644174c5396ac0233b5c238df",
+    "changes": "outputs removed; machine paths replaced; cell metadata cleared; not executed"
+  },
+  {
+    "source": "Code/Universe-Copy1.ipynb",
+    "sha256": "e36ee3981f7cefdf006b31ec15c7cd4ab273262f2fab2e3a8c05ad0fc304b006",
+    "export": "notebooks/Universe-Copy1.ipynb",
+    "export_sha256": "10f23384d992874a70755433c454ea2d6c58889b25656ba36c9b428589ce9746",
+    "changes": "outputs removed; machine paths replaced; cell metadata cleared; not executed"
+  },
+  {
+    "source": "Code/Untitled.ipynb",
+    "sha256": "4a62b68a633d79c53a6fd8893e8ea42dcf2b9a8a3e907b1b9861661f04f21517",
+    "export": "notebooks/Untitled.ipynb",
+    "export_sha256": "42f9d12932ba861899626102382dc1a24c92be809ca5c3ed2335beba9de0ee88",
+    "changes": "outputs removed; machine paths replaced; cell metadata cleared; not executed"
+  },
+  {
+    "source": "Code/Untitled1.ipynb",
+    "sha256": "53539779c7cde46c5d8c3d28c0821038945b563d257904a9d940c9c6c4fd35d9",
+    "export": "notebooks/Untitled1.ipynb",
+    "export_sha256": "c71d5e14141585ff9fc179c2a1ea52e829d68a0937f7fd10af2806f3771d00a8",
+    "changes": "outputs removed; machine paths replaced; cell metadata cleared; not executed"
+  },
+  {
+    "source": "Code/disen_part.ipynb",
+    "sha256": "40df07937b02cd283db86133b357b6abf90fd31a6ba419eee595e590f12c946a",
+    "export": "notebooks/disen_part.ipynb",
+    "export_sha256": "f6602dc460dcb71608e628731eabc347299bdaadf7c6cf595eeffac417b093f6",
+    "changes": "outputs removed; machine paths replaced; cell metadata cleared; not executed"
+  },
+  {
+    "source": "Code/embeding.ipynb",
+    "sha256": "c9c5e3af36f8725eae088302c3e55eca9ea7f66471386d4047bc5c0af7923bea",
+    "export": "notebooks/embeding.ipynb",
+    "export_sha256": "97e99119e2f775a7f4deb3bf440f2cb901e7922e8a59956ad9d5f1404e326d0e",
+    "changes": "outputs removed; machine paths replaced; cell metadata cleared; not executed"
+  },
+  {
+    "source": "Code/evaluate_models.ipynb",
+    "sha256": "19f484cd0eee05ee2b0893bdd302a2429421eeef05735a49367db9891d91822b",
+    "export": "notebooks/evaluate_models.ipynb",
+    "export_sha256": "3bd8b6759d5bcff60b4dd0d8feb834c72fd42ea15af602f0d66b91ba58611451",
+    "changes": "outputs removed; machine paths replaced; cell metadata cleared; not executed"
+  },
+  {
+    "source": "Code/foldseek_clustering.ipynb",
+    "sha256": "ee4a6372acd9df5e0c86d10035ab3d9d13c6bf57dac39026ccf8b5d6584dd5b5",
+    "export": "notebooks/foldseek_clustering.ipynb",
+    "export_sha256": "7b336bd3768883a6709680f3f5a414d4213fd2f8d897bade8636a755e4fa2b7d",
+    "changes": "outputs removed; machine paths replaced; cell metadata cleared; not executed"
+  },
+  {
+    "source": "Code/get_data.ipynb",
+    "sha256": "f6cc6198a8922d16c160810862b267f83b98293cb47c27b8a4c67496786f86ea",
+    "export": "notebooks/get_data.ipynb",
+    "export_sha256": "44f1b9ca3309d70535bca1eb69903ab70c41d3ea203a30e623e67dac13860977",
+    "changes": "outputs removed; machine paths replaced; cell metadata cleared; not executed"
+  },
+  {
+    "source": "Code/test_CLEAN.ipynb",
+    "sha256": "41b769d0b4f79b9b13f0c085b8e08b74af4f3c6949a40194967339bb214b4b35",
+    "export": "notebooks/test_CLEAN.ipynb",
+    "export_sha256": "5dd473167a3ae6560e7e30def8e3b8e92913cceec545a67c823bacd9765aff4f",
+    "changes": "outputs removed; machine paths replaced; cell metadata cleared; not executed"
+  }
+]

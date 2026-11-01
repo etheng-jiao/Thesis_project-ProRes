@@ -1,0 +1,330 @@
+[
+  {
+    "path": "figure",
+    "kind": "directory",
+    "size": 2097120,
+    "mtime_ns": 1704175483000000000,
+    "flags": 1073741856,
+    "status": "cloud_only"
+  },
+  {
+    "path": "Code/foldseek",
+    "kind": "directory",
+    "size": 2097120,
+    "mtime_ns": 1698360112000000000,
+    "flags": 1073741856,
+    "status": "cloud_only"
+  },
+  {
+    "path": "Code/dist",
+    "kind": "directory",
+    "size": 2097120,
+    "mtime_ns": 1699747496000000000,
+    "flags": 1073741856,
+    "status": "cloud_only"
+  },
+  {
+    "path": "Code/build",
+    "kind": "directory",
+    "size": 2097120,
+    "mtime_ns": 1699747496000000000,
+    "flags": 1073741856,
+    "status": "cloud_only"
+  },
+  {
+    "path": "Code/src",
+    "kind": "directory",
+    "size": 2097120,
+    "mtime_ns": 1699747496000000000,
+    "flags": 1073741856,
+    "status": "cloud_only"
+  },
+  {
+    "path": "DeepFRI",
+    "kind": "directory",
+    "size": 2097120,
+    "mtime_ns": 1701154982000000000,
+    "flags": 1073741856,
+    "status": "cloud_only"
+  },
+  {
+    "path": "sep_clr-master",
+    "kind": "directory",
+    "size": 2097120,
+    "mtime_ns": 1715859092000000000,
+    "flags": 1073741856,
+    "status": "cloud_only"
+  },
+  {
+    "path": "tttianhao-CLEAN-0cf2cac/results",
+    "kind": "directory",
+    "size": 64,
+    "mtime_ns": 1699312917000000000,
+    "flags": 1073741856,
+    "status": "cloud_only"
+  },
+  {
+    "path": "tttianhao-CLEAN-0cf2cac/data/sub3Di",
+    "kind": "directory",
+    "size": 64,
+    "mtime_ns": 1699850315000000000,
+    "flags": 1073741856,
+    "status": "cloud_only"
+  },
+  {
+    "path": "tttianhao-CLEAN-0cf2cac/data/distance_map",
+    "kind": "directory",
+    "size": 64,
+    "mtime_ns": 1719148617298145224,
+    "flags": 1073741856,
+    "status": "cloud_only"
+  },
+  {
+    "path": "tttianhao-CLEAN-0cf2cac/data/esm_data",
+    "kind": "directory",
+    "size": 64,
+    "mtime_ns": 1698194794000000000,
+    "flags": 1073741856,
+    "status": "cloud_only"
+  },
+  {
+    "path": "tttianhao-CLEAN-0cf2cac/data/prost5",
+    "kind": "directory",
+    "size": 64,
+    "mtime_ns": 1719154171946144878,
+    "flags": 1073741856,
+    "status": "cloud_only"
+  },
+  {
+    "path": "tttianhao-CLEAN-0cf2cac/data/pretrained",
+    "kind": "directory",
+    "size": 2097120,
+    "mtime_ns": 1698194794000000000,
+    "flags": 1073741856,
+    "status": "cloud_only"
+  },
+  {
+    "path": "Doc",
+    "kind": "directory",
+    "size": 2097120,
+    "mtime_ns": 1699896002000000000,
+    "flags": 1073741856,
+    "status": "cloud_only"
+  },
+  {
+    "path": ".ipynb_checkpoints",
+    "kind": "directory",
+    "size": 2097120,
+    "mtime_ns": 1787035632000000000,
+    "flags": 1073774624,
+    "status": "cloud_only"
+  },
+  {
+    "path": "data/afcase_uninofun",
+    "kind": "directory",
+    "size": 64,
+    "mtime_ns": 1705765238000000000,
+    "flags": 1073741856,
+    "status": "cloud_only"
+  },
+  {
+    "path": "data/afall_ID100",
+    "kind": "directory",
+    "size": 64,
+    "mtime_ns": 1702397469000000000,
+    "flags": 1073741856,
+    "status": "cloud_only"
+  },
+  {
+    "path": "data/alignment_db",
+    "kind": "directory",
+    "size": 64,
+    "mtime_ns": 1702213871000000000,
+    "flags": 1073741856,
+    "status": "cloud_only"
+  },
+  {
+    "path": "data/Universe_con_augu_fasta",
+    "kind": "directory",
+    "size": 64,
+    "mtime_ns": 1713252328000000000,
+    "flags": 1073741856,
+    "status": "cloud_only"
+  },
+  {
+    "path": "data/folddb",
+    "kind": "directory",
+    "size": 64,
+    "mtime_ns": 1698363399000000000,
+    "flags": 1073741856,
+    "status": "cloud_only"
+  },
+  {
+    "path": "data/dataframes",
+    "kind": "directory",
+    "size": 64,
+    "mtime_ns": 1698369649000000000,
+    "flags": 1073741856,
+    "status": "cloud_only"
+  },
+  {
+    "path": "data/afall",
+    "kind": "directory",
+    "size": 64,
+    "mtime_ns": 1702124095000000000,
+    "flags": 1073741856,
+    "status": "cloud_only"
+  },
+  {
+    "path": "data/Universe_augu_fasta",
+    "kind": "directory",
+    "size": 64,
+    "mtime_ns": 1712928446000000000,
+    "flags": 1073741856,
+    "status": "cloud_only"
+  },
+  {
+    "path": "data/Universe_1000_2000",
+    "kind": "directory",
+    "size": 64,
+    "mtime_ns": 1710525152000000000,
+    "flags": 1073741856,
+    "status": "cloud_only"
+  },
+  {
+    "path": "data/Embedding",
+    "kind": "directory",
+    "size": 64,
+    "mtime_ns": 1711243361000000000,
+    "flags": 1073741856,
+    "status": "cloud_only"
+  },
+  {
+    "path": "data/all",
+    "kind": "directory",
+    "size": 64,
+    "mtime_ns": 1701882508000000000,
+    "flags": 1073741856,
+    "status": "cloud_only"
+  },
+  {
+    "path": "data/clu",
+    "kind": "directory",
+    "size": 64,
+    "mtime_ns": 1701865404000000000,
+    "flags": 1073741856,
+    "status": "cloud_only"
+  },
+  {
+    "path": "data/af1.17.99.9",
+    "kind": "directory",
+    "size": 64,
+    "mtime_ns": 1702753720000000000,
+    "flags": 1073741856,
+    "status": "cloud_only"
+  },
+  {
+    "path": "data/Universe_fasta",
+    "kind": "directory",
+    "size": 64,
+    "mtime_ns": 1710621443000000000,
+    "flags": 1073741856,
+    "status": "cloud_only"
+  },
+  {
+    "path": "data/afallzip",
+    "kind": "directory",
+    "size": 64,
+    "mtime_ns": 1744737107000000000,
+    "flags": 1073741856,
+    "status": "cloud_only"
+  },
+  {
+    "path": "data/afcase",
+    "kind": "directory",
+    "size": 2097120,
+    "mtime_ns": 1701862299000000000,
+    "flags": 1073741856,
+    "status": "cloud_only"
+  },
+  {
+    "path": "data/afnew_foldseek_key/P11408.pdb",
+    "kind": "file",
+    "size": 278882,
+    "mtime_ns": 1705874694421450547,
+    "flags": 1073741920,
+    "status": "cloud_only"
+  },
+  {
+    "path": "data/afnew_foldseek_key/Q9C168.pdb",
+    "kind": "file",
+    "size": 479357,
+    "mtime_ns": 1705874698152498663,
+    "flags": 1073741920,
+    "status": "cloud_only"
+  },
+  {
+    "path": "data/afnew_foldseek_key/Q9KBI9.pdb",
+    "kind": "file",
+    "size": 130976,
+    "mtime_ns": 1705874698520677760,
+    "flags": 1073741920,
+    "status": "cloud_only"
+  },
+  {
+    "path": "data/afnew_foldseek_key/Q9SRT9.pdb",
+    "kind": "file",
+    "size": 238058,
+    "mtime_ns": 1705874698948729426,
+    "flags": 1073741920,
+    "status": "cloud_only"
+  },
+  {
+    "path": "data/afnew_foldseek_key/Q81RQ7.pdb",
+    "kind": "file",
+    "size": 270539,
+    "mtime_ns": 1705874696274994539,
+    "flags": 1073741920,
+    "status": "cloud_only"
+  },
+  {
+    "path": "data/afnew_foldseek_key/Q8E9K5.pdb",
+    "kind": "file",
+    "size": 247373,
+    "mtime_ns": 1705874696634898341,
+    "flags": 1073741920,
+    "status": "cloud_only"
+  },
+  {
+    "path": "data/afnew_foldseek_key/Q58034.pdb",
+    "kind": "file",
+    "size": 129680,
+    "mtime_ns": 1705874694961531025,
+    "flags": 1073741920,
+    "status": "cloud_only"
+  },
+  {
+    "path": "data/afnew_foldseek_key/Q8CXS6.pdb",
+    "kind": "file",
+    "size": 144341,
+    "mtime_ns": 1705874696595284110,
+    "flags": 1073741920,
+    "status": "cloud_only"
+  },
+  {
+    "path": "Metagenomic-DeepFRI/.github",
+    "kind": "directory",
+    "size": 64,
+    "mtime_ns": 1701783942000000000,
+    "flags": 1073774624,
+    "status": "cloud_only"
+  },
+  {
+    "path": "lucaOne/.ipynb_checkpoints",
+    "kind": "directory",
+    "size": 2097120,
+    "mtime_ns": 1787047429000000000,
+    "flags": 1073774624,
+    "status": "cloud_only"
+  }
+]
