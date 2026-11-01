@@ -1,0 +1,5 @@
+Sequence,Structure,reported_counts,reported_singletons
+True,True,2283,679
+True,False,1,0
+False,True,121,0
+False,False,886,0

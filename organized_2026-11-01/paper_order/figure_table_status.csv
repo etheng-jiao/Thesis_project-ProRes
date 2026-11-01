@@ -1,0 +1,37 @@
+item,status,note
+Figure 3.1,recomputed_figure,10 AA bins as thesis caption; multi-label expansion as original notebook; plotted 0-1050 AA
+Figure 3.2,recomputed_figure,Recomputed; original panel types restored; not pixel-identical
+Figure 3.3,recomputed_figure,"Original count bars; cluster size >10 annotation universe, denominator saved; typography not pixel-identical"
+Figure 3.4,recomputed_figure,"Original count bars; cluster size >10 annotation universe, denominator saved; typography not pixel-identical"
+Figure 3.5,recomputed_figure,"Original count bars; cluster size >10 annotation universe, denominator saved; typography not pixel-identical"
+Figure 3.6,recomputed_figure,10 AA bins as thesis caption; multi-label expansion as original notebook; plotted 0-1050 AA
+Figure 3.7,recomputed_figure,Recomputed; original panel types restored; not pixel-identical
+Table 3.1,table,"Reported thesis configuration, not training rerun"
+Figure 4.1–4.5,blocked,缺少原始结构获取清单、分阶段聚类表和严格对应的 pLDDT 快照；不根据目前文件数补造原图。
+Table 4.1,table,Partial: upstream stages not rerun
+Figure 4.6,recomputed_figure,Two-panel cluster-count distribution; edges recovered from original notebook cell 27
+Figure 4.7,recomputed_figure,Recomputed; original panel types restored; not pixel-identical
+Table 4.2,table,Reported 2x2 values; only aggregate 2283/1008 and 679 independently recovered; upstream assignments missing
+Table 4.3,table,Discrepancy: neither first-label nor all-label-prefix reconstruction matches thesis counts
+Table 4.4,table,Recomputed from raw annotation TSV
+Figure 4.8,recomputed_figure,Recomputed; original panel types restored; not pixel-identical
+Figure 4.9,recomputed_figure,Recomputed; original panel types restored; not pixel-identical
+Figure 4.10,recomputed_figure,Recomputed; original panel types restored; not pixel-identical
+Figure 4.11,recomputed_figure,Recomputed; original panel types restored; not pixel-identical
+Figure 4.12,recomputed_figure,"Original count bar chart with adjusted-p colour; term order by adjusted p, historical tie order not guaranteed"
+Table 4.5,table,Recomputed ratios
+Figure 4.13,recomputed_figure,"Raw annotation heatmap; protein IDs explicit, alphabetic order; exact original ordering unavailable"
+Figure 4.14,recomputed_figure,"Original count bar chart with adjusted-p colour; term order by adjusted p, historical tie order not guaranteed"
+Figure 4.15,recomputed_figure,"Raw annotation heatmap; protein IDs explicit, alphabetic order; exact original ordering unavailable"
+Figure 4.16–4.18,blocked,Mixed 本地可用，但 EC/MFO embeddings、原始序列聚类参照及共同排序不足以重建完整原图；Mixed 部分检查放在附录。
+Figure 4.19,recomputed_figure,"Legacy last-local mapping; inherited local EC category, NOT measured universe EC; current snapshot may differ from PDF"
+Figure 4.20,recomputed_figure,Original notebook bin edges and legacy assignment; empty bins remain NaN
+Table 4.6,table,Recomputed with legacy last-local reverse mapping; collision issue discussed only in appendix
+Figure 4.21,recomputed_figure,Recomputed; original panel types restored; not pixel-identical
+Table 4.7,table,Recomputed case mapping sizes
+Figure 4.22–4.23,blocked,缺少未知宇宙相同样本的 ProteinVec 多 aspect 表征，无法重画局部/宇宙对照。
+Table 4.8–4.10,blocked,需恢复精确测试映射、逐样本 Foldseek 预测与增强训练清单。当前不重新训练，也不补造指标。
+Table 4.11,table,Reported PDF values only; NOT rerun predictions
+Figure 4.24–4.25,blocked,缺少最终四模型精确 checkpoint/输入对应和多 aspect 参照，不能生成完整的模型对照热图与小提琴图。
+Figure 4.26–4.27; Table 4.12,blocked,六个编码器的 checkpoint 身份、训练配置、输入 embedding 与逐样本预测不齐全。
+Table 4.12 reported,table,Reported values only; NOT model rerun

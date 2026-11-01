@@ -1,0 +1,100 @@
+[
+  {
+    "item": "Figure 4.1–4.5",
+    "status": "blocked",
+    "note": "缺少原始结构获取清单、分阶段聚类表和严格对应的 pLDDT 快照；不根据目前文件数补造原图。",
+    "inputs": [
+      {
+        "path": "02_data/data/all",
+        "availability": "local"
+      },
+      {
+        "path": "02_data/data/alignment_db",
+        "availability": "local"
+      }
+    ]
+  },
+  {
+    "item": "Figure 4.16–4.18",
+    "status": "blocked",
+    "note": "Mixed 本地可用，但 EC/MFO embeddings、原始序列聚类参照及共同排序不足以重建完整原图；Mixed 部分检查放在附录。",
+    "inputs": [
+      {
+        "path": "02_data/data/Embedding",
+        "availability": "cloud_only: 02_data/data/Embedding"
+      },
+      {
+        "path": "02_data/data/all",
+        "availability": "local"
+      }
+    ]
+  },
+  {
+    "item": "Figure 4.22–4.23",
+    "status": "blocked",
+    "note": "缺少未知宇宙相同样本的 ProteinVec 多 aspect 表征，无法重画局部/宇宙对照。",
+    "inputs": [
+      {
+        "path": "02_data/data/Embedding",
+        "availability": "cloud_only: 02_data/data/Embedding"
+      },
+      {
+        "path": "02_data/data/Universe_1000_2000",
+        "availability": "cloud_only: 02_data/data/Universe_1000_2000"
+      }
+    ]
+  },
+  {
+    "item": "Table 4.8–4.10",
+    "status": "blocked",
+    "note": "需恢复精确测试映射、逐样本 Foldseek 预测与增强训练清单。当前不重新训练，也不补造指标。",
+    "inputs": [
+      {
+        "path": "02_data/data/all",
+        "availability": "local"
+      },
+      {
+        "path": "03_models_and_tools/tttianhao-CLEAN-0cf2cac/results",
+        "availability": "local"
+      }
+    ]
+  },
+  {
+    "item": "Figure 4.24–4.25",
+    "status": "blocked",
+    "note": "缺少最终四模型精确 checkpoint/输入对应和多 aspect 参照，不能生成完整的模型对照热图与小提琴图。",
+    "inputs": [
+      {
+        "path": "02_data/data/Embedding",
+        "availability": "cloud_only: 02_data/data/Embedding"
+      },
+      {
+        "path": "03_models_and_tools/tttianhao-CLEAN-0cf2cac/data/prost5",
+        "availability": "cloud_only: 03_models_and_tools/tttianhao-CLEAN-0cf2cac/data/prost5"
+      },
+      {
+        "path": "03_models_and_tools/tttianhao-CLEAN-0cf2cac/results",
+        "availability": "local"
+      }
+    ]
+  },
+  {
+    "item": "Figure 4.26–4.27; Table 4.12",
+    "status": "blocked",
+    "note": "六个编码器的 checkpoint 身份、训练配置、输入 embedding 与逐样本预测不齐全。",
+    "inputs": [
+      {
+        "path": "03_models_and_tools/sep_clr-master/Protein_Model",
+        "availability": "cloud_only: 03_models_and_tools/sep_clr-master/Protein_Model"
+      },
+      {
+        "path": "01_code/Code/src",
+        "availability": "local"
+      },
+      {
+        "path": "02_data/data/Embedding",
+        "availability": "cloud_only: 02_data/data/Embedding"
+      }
+    ]
+  }
+]

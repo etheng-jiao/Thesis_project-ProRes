@@ -1,0 +1,2 @@
+Epochs,Learning rate,Adaptive rate,Hidden dim,Out dim
+3500,0.0005,100,512,128
