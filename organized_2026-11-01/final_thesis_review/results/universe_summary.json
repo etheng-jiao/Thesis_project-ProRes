@@ -1,0 +1,22 @@
+{
+  "total_rows": 22273656,
+  "flags": {
+    "1": 20658534,
+    "2": 1505043,
+    "3": 110042,
+    "4": 37
+  },
+  "retained_member_rows": 22163577,
+  "universe_clusters": 2982,
+  "mapping_local_ids": 3291,
+  "mapping_global_ids": 3044,
+  "multi_global_groups": 223,
+  "locals_in_multi_groups": 470,
+  "single_global_groups": 2821,
+  "unmapped_local_clusters": [],
+  "subset_legacy_clusters": 351,
+  "subset_legacy_local_members": 11792,
+  "subset_universe_member_rows": 506261,
+  "legacy_reverse_mapping_collisions": 247,
+  "mean_expansion_per_local": 1437.308663893807
+}

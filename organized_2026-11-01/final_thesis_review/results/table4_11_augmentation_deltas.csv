@@ -1,0 +1,11 @@
+model,group,delta_F1,delta_accuracy
+ProtT5,all,-0.12,-0.147
+ProtT5,unmapped,-0.299,-0.302
+ProtT5,mapped,-0.026,-0.046
+ProtT5,EC_consistent,-0.082,-0.067
+ProtT5,EC_inconsistent,-0.018,-0.041
+ProstT5,all,0.005,-0.028
+ProstT5,unmapped,-0.043,-0.043
+ProstT5,mapped,0.027,-0.017
+ProstT5,EC_consistent,-0.022,-0.022
+ProstT5,EC_inconsistent,0.035,-0.015

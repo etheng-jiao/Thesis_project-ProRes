@@ -1,0 +1,11 @@
+{
+  "recomputed_rows": 41501,
+  "stored_rows": 41501,
+  "match_status": {
+    "both": 41501,
+    "left_only": 0,
+    "right_only": 0
+  },
+  "pvalues_close": 41501,
+  "adjusted_close": 41500
+}
